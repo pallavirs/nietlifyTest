@@ -8,7 +8,7 @@ const Footer = () => {
             The Venue
             </div>
             <div className="footer_copyright">
-            The venue 2020 All rights reserved.
+            The venue 2020 All rights reserved.working confirmed
             </div>
             </Fade>
         </footer>
